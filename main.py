@@ -22,7 +22,7 @@ pluto_removals = [
     'CBS News New York', 'PFL MMA', 'XITE Gospel', 'The First', 'Midsomer Murders', 'Inspector Gadget',
     'Sabrina Teenage Witch', 'Little Baby Bum', 'Morphle', 'Moonbug Kids', 'Arthur', 'Barney & Friends', 'Duck Dynasty',
     'Wicked Tuna', '16 & Pregnant', 'My Strange Addiction', 'Bridezillas', 'Hunter', 'Highway to Heaven',
-    'Wild at Heart', 'CSI: New York', 'CSI: Miami', 'Hart to Hart', 'When Calls the Heart', 'Party of Five',
+    'Wild at Heart', 'Hart to Hart', 'When Calls the Heart', 'Party of Five',
     'Rookie Blue'
 ]
 samsung_removals = [
@@ -54,6 +54,20 @@ pluto_us.remove_by_category("En Español")
 pluto_us.remove_by_category("Local News")
 pluto_us.remove_by_category("Kids")
 pluto_us.filter_by("name", pluto_removals, retrieve=False)
+pluto_us.filter_by("name", "48 Hours", retrieve=False)
+pluto_us.filter_by("name", "Bloomberg TV", retrieve=False)
+pluto_us.filter_by("name", "CBS News", retrieve=False)
+pluto_us.filter_by("name", "FailArmy", retrieve=False)
+pluto_us.filter_by("name", "Judge Nosey", retrieve=False)
+pluto_us.filter_by("name", "MST3K", retrieve=False)
+pluto_us.filter_by("name", "Nosey", retrieve=False)
+pluto_us.filter_by("name", "QVC", retrieve=False)
+pluto_us.filter_by("name", "Sky News", retrieve=False)
+pluto_us.filter_by("name", "The Judge Judy Channel", retrieve=False)
+pluto_us.filter_by("name", "The New Detectives", retrieve=False)
+pluto_us.filter_by("name", "The Pet Collective", retrieve=False)
+pluto_us.filter_by("name", "Voyager Documentaries", retrieve=False)
+pluto_us.filter_by("name", "Unsolved Mysteries", retrieve=False)
 pluto_us.sort_by("category")
 print(f"{len(pluto_us.get_list())} channels remaining\n")
 pluto_us.to_file("pluto_us", "m3u")
@@ -62,6 +76,8 @@ pluto_uk = M3uParser(timeout=5, useragent=user_agent)
 pluto_uk.parse_m3u(pluto_uk_url)
 print(f"Pluto UK: Loaded {len(pluto_uk.get_list())} channels")
 pluto_uk.filter_by("name", pluto_removals, retrieve=False)
+pluto_uk.filter_by("name", "Anthony Bourdain: Parts Unknown", retrieve=False)
+pluto_uk.filter_by("name", "Cheddar", retrieve=False)
 pluto_uk.sort_by("category")
 print(f"{len(pluto_uk.get_list())} channels remaining\n")
 pluto_uk.to_file("pluto_uk", "m3u")
