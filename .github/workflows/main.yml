@@ -2,7 +2,8 @@ name: Make M3Us
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '0 0 * * *'
+  push:
 
 jobs:
   build:
