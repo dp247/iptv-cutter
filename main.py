@@ -51,8 +51,8 @@ stirr_removals = [
 ]
 
 stirr_to_keep = [
-    ' TBD', ' Swerve Sports', ' STIRR | National', ' Stadium', ' SportsGrid', ' RetroCrush', ' Midnight Pulp', ' Comet',
-    ' Docurama', ' Law & Crime', ' LiveXLive', ' Gravitas', ' Electric Now', ' CHARGE', ' EVERGRN'
+    'TBD', 'Swerve Sports', ' STIRR | National', 'Stadium', 'SportsGrid', 'RetroCrush', 'Midnight Pulp', 'Comet',
+    'Docurama', 'Law & Crime', 'LiveXLive', 'Gravitas', 'Electric Now', 'CHARGE', 'EVERGRN'
 ]
 print(f"Pluto US: Loaded {len(pluto_us.get_list())} channels")
 pluto_us.remove_by_category("En Español")
