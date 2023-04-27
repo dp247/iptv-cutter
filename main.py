@@ -49,6 +49,11 @@ stirr_removals = [
     'SportsGrid', 'Racing America', 'MavTv', 'QVC', 'Outdoor America', 'Stingray', 'World Poker Tour', 'Electric Now',
 
 ]
+
+stirr_to_keep = [
+    ' TBD', ' Swerve Sports', ' STIRR | National', ' Stadium', ' SportsGrid', ' RetroCrush', ' Midnight Pulp', ' Comet',
+    ' Docurama', ' Law & Crime', ' LiveXLive', ' Gravitas', ' Electric Now', ' CHARGE', ' EVERGRN'
+]
 print(f"Pluto US: Loaded {len(pluto_us.get_list())} channels")
 pluto_us.remove_by_category("En Español")
 pluto_us.remove_by_category("Local News")
@@ -170,6 +175,7 @@ samsung_uk.filter_by("name", "Deal or No Deal US", retrieve=False)
 samsung_uk.filter_by("name", "The Design Network", retrieve=False)
 samsung_uk.filter_by("name", "Grjngo - Western Movies", retrieve=False)
 samsung_uk.filter_by("name", "Unbeaten", retrieve=False)
+samsung_uk.filter_by("name", "Pluto Drama", retrieve=False)
 samsung_uk.sort_by("category")
 print(f"{len(samsung_uk.get_list())} channels remaining\n")
 samsung_uk.to_file("samsung_uk", "m3u")
@@ -189,7 +195,7 @@ stirr = M3uParser(timeout=5, useragent=user_agent)
 stirr.parse_m3u(stirr_url)
 print(f"Stirr: Loaded {len(stirr.get_list())} channels")
 stirr.get_random_stream()
-stirr.filter_by("name", stirr_removals, retrieve=False)
+stirr.filter_by("name", stirr_to_keep, retrieve=True)
 print(f"{len(stirr.get_list())} channels remaining\n")
 stirr.to_file("stirr", "m3u")
 
