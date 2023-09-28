@@ -4,9 +4,8 @@ pluto_uk_url = "https://i.mjh.nz/PlutoTV/gb.m3u8"
 stv_uk_url = "https://i.mjh.nz/SamsungTVPlus/gb.m3u8"
 stv_us_url = "https://i.mjh.nz/SamsungTVPlus/us.m3u8"
 stirr_url = "https://i.mjh.nz/Stirr/all.m3u8"
-user_agent = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36"
-pluto_us = M3uParser(timeout=5, useragent=user_agent)
-pluto_us.parse_m3u(pluto_us_url)
+
+# These removals were the original ones that I was too lazy to add to LOL
 pluto_removals = [
     "Degrassi", "America's Voice News", "CBS News Chicago", "OAN Plus", "WeatherNation Los Angeles",
     'Faith TV', 'TBN', 'GLORY Kickboxing', 'World Poker Tour', 'PokerGo', 'Golazo Network', 'Logo Pluto TV',
@@ -49,10 +48,16 @@ stirr_removals = [
     'SportsGrid', 'Racing America', 'MavTv', 'QVC', 'Outdoor America', 'Stingray', 'World Poker Tour', 'Electric Now',
 
 ]
+
+user_agent = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36"
+
+pluto_us = M3uParser(timeout=5, useragent=user_agent)
+pluto_us.parse_m3u(pluto_us_url)
 print(f"Pluto US: Loaded {len(pluto_us.get_list())} channels")
 pluto_us.remove_by_category("En Español")
 pluto_us.remove_by_category("Local News")
 pluto_us.remove_by_category("Kids")
+pluto_us.remove_by_category("Big Brother Live")
 pluto_us.filter_by("name", pluto_removals, retrieve=False)
 pluto_us.filter_by("name", "48 Hours", retrieve=False)
 pluto_us.filter_by("name", "Bloomberg TV", retrieve=False)
@@ -114,6 +119,12 @@ pluto_us.filter_by("name", "Vevo Country", retrieve=False)
 pluto_us.filter_by("name", "Vevo Latino", retrieve=False)
 pluto_us.filter_by("name", "All Reality by WE tv", retrieve=False)
 pluto_us.filter_by("name", "VH1 I Love Reality", retrieve=False)
+pluto_us.filter_by("name", "Casos de la Dra. Polo", retrieve=False)
+pluto_us.filter_by("name", "Vevo Regional Mexicano", retrieve=False)
+pluto_us.filter_by("name", "Vevo Íconos Latinos", retrieve=False)
+pluto_us.filter_by("name", "Estrella News", retrieve=False)
+pluto_us.filter_by("name", "NBC News NOW", retrieve=False)
+pluto_us.filter_by("name", "PGA TOUR", retrieve=False)
 pluto_us.sort_by("category")
 print(f"{len(pluto_us.get_list())} channels remaining\n")
 pluto_us.to_file("pluto_us", "m3u")
@@ -150,6 +161,14 @@ pluto_uk.filter_by("name", "Fifth Gear", retrieve=False)
 pluto_uk.filter_by("name", "Ice Pilots", retrieve=False)
 pluto_uk.filter_by("name", "Full Custom Garage", retrieve=False)
 pluto_uk.filter_by("name", "The New Detectives", retrieve=False)
+pluto_uk.filter_by("name", "How To Use Pluto TV", retrieve=False)
+pluto_uk.filter_by("name", "Mystery TV", retrieve=False)
+pluto_uk.filter_by("name", "World War TV", retrieve=False)
+pluto_uk.filter_by("name", "UKTV Play Full Throttle", retrieve=False)
+pluto_uk.filter_by("name", "UKTV Play Uncovered", retrieve=False)
+pluto_uk.filter_by("name", "UKTV Play Heroes", retrieve=False)
+pluto_uk.filter_by("name", "UKTV Play Laughs", retrieve=False)
+pluto_uk.filter_by("name", "Pensacola: Wings of Gold", retrieve=False)
 pluto_uk.sort_by("category")
 print(f"{len(pluto_uk.get_list())} channels remaining\n")
 pluto_uk.to_file("pluto_uk", "m3u")
@@ -170,6 +189,9 @@ samsung_uk.filter_by("name", "Deal or No Deal US", retrieve=False)
 samsung_uk.filter_by("name", "The Design Network", retrieve=False)
 samsung_uk.filter_by("name", "Grjngo - Western Movies", retrieve=False)
 samsung_uk.filter_by("name", "Unbeaten", retrieve=False)
+samsung_uk.filter_by("name", "FireScape", retrieve=False)
+samsung_uk.filter_by("name", "Pointless UK: 'Powered by Banijay'", retrieve=False)
+samsung_uk.filter_by("name", "Tattoo Fixers", retrieve=False)
 samsung_uk.sort_by("category")
 print(f"{len(samsung_uk.get_list())} channels remaining\n")
 samsung_uk.to_file("samsung_uk", "m3u")
