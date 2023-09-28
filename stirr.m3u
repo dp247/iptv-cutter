@@ -1,87 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="its-showtime-at-the-apollo-03-12-2021" tvg-logo="https://i.mjh.nz/Stirr/.images/04334ffd4f.png",It's Showtime at the Apollo
-https://dai.google.com/linear/hls/event/fAFfTnCAT2K8d83sYsA-cw/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-03-22-2019-03-22-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/ae83f6d0a7.png",Law & Crime
-https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-03-20-2020-03-20-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/5d94ec00d2.png",Mystery Science Theater 3000
-https://dai.google.com/linear/hls/event/rmBGeSwhQEG64TrT0_JO2A/master.m3u8
-#EXTINF:-1 tvg-id="stirr-spring-break-03-28-2022-04-01-2022" tvg-logo="https://i.mjh.nz/Stirr/.images/7dff86804a.png",STIRR Kaiju
-https://dai.google.com/linear/hls/event/TDMDqMIpS82NHoFpGVYB9Q/master.m3u8
-#EXTINF:-1 tvg-id="stirr-westerns-09-25-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/5c12db04a8.png",STIRR Westerns
-https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
-#EXTINF:-1 tvg-id="stirr-pd-08-03-2021" tvg-logo="https://i.mjh.nz/Stirr/.images/49eefcf014.png",STIRR P.D.
-https://dai.google.com/linear/hls/event/dKG_ZFd_S82FPgNxHmhdJw/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-06-26-2020-193305392-06-26-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/d65f1a518c.png",Midnight Pulp
-https://dai.google.com/linear/hls/event/1fO2zbpBRyy6S5yve_fnaw/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-07-18-2019-07-18-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/ed0c97d7e8.png",Film Detective
-https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
-#EXTINF:-1 tvg-id="soar-11-20-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/19086698bc.png",SOAR
-https://dai.google.com/linear/hls/event/_PDxBUttQYqkxPnmh3VOZA/master.m3u8
-#EXTINF:-1 tvg-id="stirr-reality-tv-08-03-2021" tvg-logo="https://i.mjh.nz/Stirr/.images/7add25a072.png",STIRR Reality TV
-https://dai.google.com/linear/hls/event/r9VoxPU7TYmpydEn2ZR0jA/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-06-26-2020-193146397-06-26-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/fa3900aa7c.png",EVRGRN
-https://dai.google.com/linear/hls/event/TDUiZE57Q3-CS7Its4kLDQ/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-07-01-2020-07-01-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/c624d7b545.png",RetroCrush
-https://dai.google.com/linear/hls/event/7LAMGFcmQN6iFJjNoHWXrg/master.m3u8
-#EXTINF:-1 tvg-id="filmrise-classic-tv-09-27-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/1a3513d1a0.png",Filmrise Classic TV
-https://dai.google.com/linear/hls/event/hW5jMh7dTRK1UXW5fTH07A/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-01-28-2021-01-28-2021" tvg-logo="https://i.mjh.nz/Stirr/.images/fcf2a6e4d4.png",Quicktake
-https://dai.google.com/linear/hls/event/6ANW1HGeSTKzJlnAa9u1AQ/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-06-14-2021-06-14-2021" tvg-logo="https://i.mjh.nz/Stirr/.images/ff1f74fe34.png",Circle
-https://dai.google.com/linear/hls/event/V6bPnsRPQ0K6cQr3zxjdbw/master.m3u8
-#EXTINF:-1 tvg-id="stirr-movies-internal" tvg-logo="https://i.mjh.nz/Stirr/.images/83ed5ff1b3.png",STIRR | movies
-https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-12-11-2019-12-11-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/9f676235b5.png",Karaoke
-https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-03-13-2020-03-13-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/4fabd4d858.png",LiveXLive
-https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
-#EXTINF:-1 tvg-id="free-07-26-2018" tvg-logo="https://i.mjh.nz/Stirr/.images/a155aec24c.png",The T
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-12-15-2021-12-15-2021" tvg-logo="https://i.mjh.nz/Stirr/.images/47db5099c5.png",The Archive
-https://dai.google.com/linear/hls/event/MdbYPXWRStmMq1DaQhsBUw/master.m3u8
-#EXTINF:-1 tvg-id="space-1999" tvg-logo="https://i.mjh.nz/Stirr/.images/632338a672.png",Space 1999
-https://dai.google.com/linear/hls/event/NeKNJHuzSeCiN_7Fcuo83Q/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-01-27-2020-01-27-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/d70df8d66f.png",CineLife
-https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-02-13-2020-02-13-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/0dafe8df23.png",Popstar! TV
-https://dai.google.com/linear/hls/event/cJFuxTLzQUqbGGrqTMBJuw/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-05-21-2019-05-21-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/df2f520ff0.png",COMET
-https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
-#EXTINF:-1 tvg-id="nasatv-gracenote-external-01-09-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/22eb0947e0.png",NASATV
-https://usgeowall.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-01-13-2020-234138693-01-13-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/8265a4a003.png",MagellanTV
-https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
-#EXTINF:-1 tvg-id="dco" tvg-logo="https://i.mjh.nz/Stirr/.images/86de280abc.png",STIRR | National
-https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
-#EXTINF:-1 tvg-id="american-classics-07-18-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/0b3f7fcd23.png",American Classics
-https://dai.google.com/linear/hls/event/0e06oV-NTI2ygS2MRQk9ZA/master.m3u8
-#EXTINF:-1 tvg-id="alf-binge-09-14-2022" tvg-logo="https://i.mjh.nz/Stirr/.images/aed3dc4d10.png",ALF
-https://dai.google.com/linear/hls/event/j-4cJYXFSmiThnHiebOycQ/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-10-28-2020-10-28-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/e93a07a7af.png",America vs. Addiction
-https://dai.google.com/linear/hls/event/-A9339ixSzydnZQZHd1u2A/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-11-30-2020-11-30-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/a1affe1573.png",WeatherSpy
-https://dai.google.com/linear/hls/event/vZB78SsNSXWOR63VJrNC2Q/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-07-01-2020-225307685-07-01-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/0f3a952065.png",PursuitUp
-https://dai.google.com/linear/hls/event/NpkpFaFVRqaQwSkpPdramg/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-10-29-2021-10-29-2021" tvg-logo="https://i.mjh.nz/Stirr/.images/763d805a4c.png",AccuWeather
-https://dai.google.com/linear/hls/event/HD_ys6igSayIiNXKl9nTrQ/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-05-22-2019-05-22-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/068ecce324.png",TBD
-https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-04-16-2020-04-16-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/91ac20e27e.png",Waypoint
-https://dai.google.com/linear/hls/event/im0MqOKRTHy9nVa1sirQSg/master.m3u8
-#EXTINF:-1 tvg-id="stirr-classic-tv-08-03-2021" tvg-logo="https://i.mjh.nz/Stirr/.images/c6eb7164a8.png",STIRR Classic TV
-https://dai.google.com/linear/hls/event/8JiQCLfVQw6d7uCYt0qDJg/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-10-28-2020-232939597-10-28-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/3be6e11606.png",ACCDN
-https://dai.google.com/linear/hls/event/2vLw_L-5RoOIGNDRpMFgQQ/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-05-20-2019-05-20-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/71c3a398a9.png",Docurama
-https://dai.google.com/linear/hls/event/Hx_PEMEsSzOCcZgy0Tq2YQ/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-11-06-2019-184659187-11-06-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/7f9d6b864b.png",Ambiance
-https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
-#EXTINF:-1 tvg-id="stadium" tvg-logo="https://i.mjh.nz/Stirr/.images/42649c3aa5.png",Stadium
-https://dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-02-09-2022-02-09-2022" tvg-logo="https://i.mjh.nz/Stirr/.images/756316e10b.png",Swerve Sports
-https://dai.google.com/linear/hls/event/5qa-mJF2R0iBw8S1JwF7FQ/master.m3u8
-#EXTINF:-1 tvg-id="gravitas-wurl-external-12-03-2018" tvg-logo="https://i.mjh.nz/Stirr/.images/07fb2f7f7a.png",Gravitas
-https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-10-21-2019-10-21-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/5a48b55fc8.png",Electric Now
+https://api-ott.electricnow.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=430&partner=stirr_testing
 #EXTINF:-1 tvg-id="externallinearfeed-01-15-2020-201540715-01-15-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/8b4d0a3429.png",CHARGE
 https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-06-26-2020-193305392-06-26-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/d65f1a518c.png",Midnight Pulp
+https://dai.google.com/linear/hls/event/1fO2zbpBRyy6S5yve_fnaw/master.m3u8
+#EXTINF:-1 tvg-id="dco" tvg-logo="https://i.mjh.nz/Stirr/.images/86de280abc.png",STIRR | National
+https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-07-01-2020-07-01-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/c624d7b545.png",RetroCrush
+https://dai.google.com/linear/hls/event/7LAMGFcmQN6iFJjNoHWXrg/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-02-09-2022-02-09-2022" tvg-logo="https://i.mjh.nz/Stirr/.images/756316e10b.png",Swerve Sports
+https://dai.google.com/linear/hls/event/5qa-mJF2R0iBw8S1JwF7FQ/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-03-22-2019-03-22-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/ae83f6d0a7.png",Law & Crime
+https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-05-22-2019-05-22-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/068ecce324.png",TBD
+https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-05-21-2019-05-21-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/df2f520ff0.png",COMET
+https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-05-20-2019-05-20-2019" tvg-logo="https://i.mjh.nz/Stirr/.images/71c3a398a9.png",Docurama
+https://dai.google.com/linear/hls/event/Hx_PEMEsSzOCcZgy0Tq2YQ/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-03-13-2020-03-13-2020" tvg-logo="https://i.mjh.nz/Stirr/.images/4fabd4d858.png",LiveXLive
+https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
