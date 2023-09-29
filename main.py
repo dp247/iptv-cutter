@@ -4,6 +4,7 @@ pluto_uk_url = "https://i.mjh.nz/PlutoTV/gb.m3u8"
 stv_uk_url = "https://i.mjh.nz/SamsungTVPlus/gb.m3u8"
 stv_us_url = "https://i.mjh.nz/SamsungTVPlus/us.m3u8"
 stirr_url = "https://i.mjh.nz/Stirr/all.m3u8"
+roku_url =  "https://i.mjh.nz/Roku/all.m3u8"
 
 # These removals were the original ones that I was too lazy to add to LOL
 pluto_removals = [
@@ -46,7 +47,7 @@ stirr_removals = [
     'News 12 New York', 'The First', 'Cheddar', 'AFV', 'The Pet Collective', 'FailArmy', 'Horse Shopping Channel',
     'So...Real', 'People Are Awesome', 'Dove', 'HSN', 'The Country Network', 'ONTV4U', 'Shop LC', 'beIN Sports Xtra',
     'SportsGrid', 'Racing America', 'MavTv', 'QVC', 'Outdoor America', 'Stingray', 'World Poker Tour', 'Electric Now',
-
+    'Revry', 'Popstar! TV', 'NASATV'
 ]
 
 user_agent = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36"
@@ -129,6 +130,7 @@ pluto_us.filter_by("name", "PGA TOUR", retrieve=False)
 pluto_us.filter_by("name", "Hollywood Squares", retrieve=False)
 pluto_us.filter_by("name", "TYT Network", retrieve=False)
 pluto_us.filter_by("name", "Acapulco Shore", retrieve=False)
+pluto_us.filter_by("name", "MovieSphere by Lionsgate", retrieve=False)
 pluto_us.sort_by("category")
 print(f"{len(pluto_us.get_list())} channels remaining\n")
 pluto_us.to_file("pluto_us", "m3u")
@@ -163,6 +165,7 @@ pluto_uk.filter_by("name", "Ghost Dimension", retrieve=False)
 pluto_uk.filter_by("name", "Beyond Belief: Fact or Fiction", retrieve=False)
 pluto_uk.filter_by("name", "Fifth Gear", retrieve=False)
 pluto_uk.filter_by("name", "Ice Pilots", retrieve=False)
+pluto_uk.filter_by("name", "Pluto TV Trash to Cash", retrieve=False)
 pluto_uk.filter_by("name", "Full Custom Garage", retrieve=False)
 pluto_uk.filter_by("name", "The New Detectives", retrieve=False)
 pluto_uk.filter_by("name", "How To Use Pluto TV", retrieve=False)
@@ -183,6 +186,7 @@ pluto_uk.filter_by("name", "The Night Shift", retrieve=False)
 pluto_uk.filter_by("name", "Married with Children", retrieve=False)
 pluto_uk.filter_by("name", "Inside Crime UK", retrieve=False)
 pluto_uk.filter_by("name", "Come Dine with Me", retrieve=False)
+pluto_uk.filter_by("name", "Moesha", retrieve=False)
 pluto_uk.sort_by("category")
 print(f"{len(pluto_uk.get_list())} channels remaining\n")
 pluto_uk.to_file("pluto_uk", "m3u")
@@ -191,6 +195,7 @@ samsung_uk = M3uParser(timeout=5, useragent=user_agent)
 samsung_uk.parse_m3u(stv_uk_url)
 print(f"Samsung UK: Loaded {len(samsung_uk.get_list())} channels")
 samsung_uk.filter_by("name", samsung_removals, retrieve=False)
+samsung_uk.filter_by("name", "Super Anime", retrieve=True)
 samsung_uk.remove_by_category("Kids")
 samsung_uk.remove_by_category("Motoring")
 samsung_uk.filter_by("name", "Now 80s", retrieve=False)
@@ -227,8 +232,29 @@ samsung_us.to_file("samsung_us", "m3u")
 stirr = M3uParser(timeout=5, useragent=user_agent)
 stirr.parse_m3u(stirr_url)
 print(f"Stirr: Loaded {len(stirr.get_list())} channels")
-stirr.get_random_stream()
 stirr.filter_by("name", stirr_removals, retrieve=False)
 print(f"{len(stirr.get_list())} channels remaining\n")
 stirr.to_file("stirr", "m3u")
+
+
+roku = M3uParser(timeout=5, useragent=user_agent)
+roku.parse_m3u(roku_url)
+print(f"Stirr: Loaded {len(roku.get_list())} channels")
+# https://i.mjh.nz/Roku/11f70f2cc59750f4ad9a019d72ad17b1.m3u8
+roku.filter_by("name", "Women's Sports Network", retrieve=True)
+roku.filter_by("name", "FITE 24/7", retrieve=True)
+roku.filter_by("name", "For The Fans", retrieve=True)
+roku.filter_by("name", "Origin Sports", retrieve=True)
+roku.filter_by("name", "Torque", retrieve=True)
+roku.filter_by("name", "Redbox Romance", retrieve=True)
+roku.filter_by("name", "REDBOX FREE MOVIES", retrieve=True)
+roku.filter_by("name", "AsianCrush", retrieve=True)
+roku.filter_by("name", "Bon Appetit", retrieve=True)
+roku.filter_by("name", "Hello Inspo", retrieve=True)
+roku.filter_by("name", "This Old House Makers Channel", retrieve=True)
+roku.filter_by("name", "Modern Marvels", retrieve=True)
+roku.filter_by("name", "Great American Adventures", retrieve=True)
+roku.filter_by("name", "Kriminal", retrieve=True)
+
+
 
