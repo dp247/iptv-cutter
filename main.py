@@ -255,6 +255,8 @@ roku.filter_by("name", "This Old House Makers Channel", retrieve=True)
 roku.filter_by("name", "Modern Marvels", retrieve=True)
 roku.filter_by("name", "Great American Adventures", retrieve=True)
 roku.filter_by("name", "Kriminal", retrieve=True)
+print(f"{len(roku.get_list())} channels remaining\n")
+roku.to_file("roku", "m3u")
 
 
 
