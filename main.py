@@ -1,10 +1,11 @@
 from m3u_parser import M3uParser
+
 pluto_us_url = "https://i.mjh.nz/PlutoTV/us.m3u8"
 pluto_uk_url = "https://i.mjh.nz/PlutoTV/gb.m3u8"
 stv_uk_url = "https://i.mjh.nz/SamsungTVPlus/gb.m3u8"
 stv_us_url = "https://i.mjh.nz/SamsungTVPlus/us.m3u8"
 stirr_url = "https://i.mjh.nz/Stirr/all.m3u8"
-roku_url =  "https://i.mjh.nz/Roku/all.m3u8"
+roku_url = "https://i.mjh.nz/Roku/all.m3u8"
 
 # These removals were the original ones that I was too lazy to add to LOL
 pluto_removals = [
@@ -195,7 +196,7 @@ samsung_uk = M3uParser(timeout=5, useragent=user_agent)
 samsung_uk.parse_m3u(stv_uk_url)
 print(f"Samsung UK: Loaded {len(samsung_uk.get_list())} channels")
 samsung_uk.filter_by("name", samsung_removals, retrieve=False)
-samsung_uk.filter_by("name", "Super Anime", retrieve=True)
+# samsung_uk.filter_by("name", "Super Anime")
 samsung_uk.remove_by_category("Kids")
 samsung_uk.remove_by_category("Motoring")
 samsung_uk.filter_by("name", "Now 80s", retrieve=False)
@@ -209,9 +210,9 @@ samsung_uk.filter_by("name", "The Design Network", retrieve=False)
 samsung_uk.filter_by("name", "Grjngo - Western Movies", retrieve=False)
 samsung_uk.filter_by("name", "Unbeaten", retrieve=False)
 samsung_uk.filter_by("name", "FireScape", retrieve=False)
-samsung_uk.filter_by("name", "Pointless UK: 'Powered by Banijay'", retrieve=False)
+samsung_uk.filter_by("name", f"Pointless UK: \'Powered by Banijay\'", retrieve=False)
 samsung_uk.filter_by("name", "Tattoo Fixers", retrieve=False)
-samsung_uk.filter_by("name", "So…Real", retrieve=False)
+samsung_uk.filter_by("name", "So...Real", retrieve=False)
 samsung_uk.filter_by("name", "Mythbusters", retrieve=False)
 samsung_uk.filter_by("name", "Wipeout Xtra Powered by Banijay", retrieve=False)
 samsung_uk.sort_by("category")
@@ -236,26 +237,12 @@ stirr.filter_by("name", stirr_removals, retrieve=False)
 print(f"{len(stirr.get_list())} channels remaining\n")
 stirr.to_file("stirr", "m3u")
 
-
+roku_to_keep = ["Women's Sports Network", "FITE 24/7", "For The Fans", "Origin Sports", "Torque", "Redbox Romance",
+                "REDBOX FREE MOVIES", "AsianCrush", "Bon Appetit", "Hello Inspo", "This Old House Makers Channel",
+                "Modern Marvels", "Great American Adventures", "Kriminal"]
 roku = M3uParser(timeout=5, useragent=user_agent)
 roku.parse_m3u(roku_url)
 print(f"Roku: Loaded {len(roku.get_list())} channels")
-roku.filter_by("name", " Women's Sports Network", retrieve=True)
-roku.filter_by("name", " FITE 24/7", retrieve=True)
-roku.filter_by("name", " For The Fans", retrieve=True)
-roku.filter_by("name", " Origin Sports", retrieve=True)
-roku.filter_by("name", " Torque", retrieve=True)
-roku.filter_by("name", " Redbox Romance", retrieve=True)
-roku.filter_by("name", " REDBOX FREE MOVIES", retrieve=True)
-roku.filter_by("name", " AsianCrush", retrieve=True)
-roku.filter_by("name", " Bon Appetit", retrieve=True)
-roku.filter_by("name", " Hello Inspo", retrieve=True)
-roku.filter_by("name", " This Old House Makers Channel", retrieve=True)
-roku.filter_by("name", " Modern Marvels", retrieve=True)
-roku.filter_by("name", " Great American Adventures", retrieve=True)
-roku.filter_by("name", " Kriminal", retrieve=True)
+roku.filter_by("name", roku_to_keep, retrieve=True)
 print(f"{len(roku.get_list())} channels remaining\n")
 roku.to_file("roku", "m3u")
-
-
-
