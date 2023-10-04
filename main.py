@@ -274,6 +274,7 @@ samsung_us.filter_by("name", "Xtreme Outdoor Presented by HISTORY", retrieve=Fal
 samsung_us.filter_by("name", "Revry", retrieve=False)
 samsung_us.filter_by("name", "Pursuit UP", retrieve=False)
 samsung_us.filter_by("name", "Pluto TV Fantastic", retrieve=False)
+samsung_us.filter_by("name", "Court TV", retrieve=False)
 samsung_us.sort_by("category")
 print(f"{len(samsung_us.get_list())} channels remaining\n")
 samsung_us.to_file("samsung_us", "m3u")
