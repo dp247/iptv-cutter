@@ -6,6 +6,7 @@ stv_uk_url = "https://i.mjh.nz/SamsungTVPlus/gb.m3u8"
 stv_us_url = "https://i.mjh.nz/SamsungTVPlus/us.m3u8"
 stirr_url = "https://i.mjh.nz/Stirr/all.m3u8"
 roku_url = "https://i.mjh.nz/Roku/all.m3u8"
+plex_us_url = "https://i.mjh.nz/Plex/us.m3u8"
 
 # These removals were the original ones that I was too lazy to add to LOL
 pluto_removals = [
@@ -302,3 +303,15 @@ print(f"Roku: Loaded {len(roku.get_list())} channels")
 roku.filter_by("name", roku_to_keep, retrieve=True)
 print(f"{len(roku.get_list())} channels remaining\n")
 roku.to_file("roku", "m3u")
+
+plex_us_to_keep = ["4 Adventure", "4 Emergency", "AMC Thrillers", "ANIME x HIDIVE", "Bigtime - Free Movies",
+                   "Boston 25 News", "Euronews Français", "FilmRise Anime", "FilmRise British TV", "FilmRise Sci-Fi",
+                   "FilmRise True Crime", "FilmRise Western", "Free Movies Plus", "GameTV Go", "Grit Xtra",
+                   "Ion Mystery", "KIRO 7 Seattle", "LevelUp", "News 12 New York", "TV Asia Comedy Powered by Shemaroo",
+                   "USA TODAY SPORTS", "WFTV 9 Orlando", "Washington Post Television", "i24NEWS Updates"]
+plex_us = M3uParser(timeout=5, useragent=user_agent)
+plex_us.parse_m3u(plex_us_url)
+print(f"Roku: Loaded {len(plex_us.get_list())} channels")
+plex_us.filter_by("name", plex_us_to_keep, retrieve=True)
+print(f"{len(plex_us.get_list())} channels remaining\n")
+plex_us.to_file("roku", "m3u")
