@@ -294,7 +294,8 @@ stirr.to_file("stirr", "m3u")
 
 roku_to_keep = ["Women's Sports Network", "FITE 24/7", "For The Fans", "Origin Sports", "Torque", "Redbox Romance",
                 "REDBOX FREE MOVIES", "AsianCrush", "Bon Appetit", "Hello Inspo", "This Old House Makers Channel",
-                "Modern Marvels", "Great American Adventures", "Kriminal"]
+                "Modern Marvels", "Great American Adventures", "Kriminal", "NewsmaxTV Live", "Crunchyroll", "WMX Pop",
+                "WMX Hip Hop", "WMX Rock", "Rakuten Viki"]
 roku = M3uParser(timeout=5, useragent=user_agent)
 roku.parse_m3u(roku_url)
 print(f"Roku: Loaded {len(roku.get_list())} channels")
