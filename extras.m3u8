@@ -17,10 +17,6 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-name="DW english" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW english
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="CNNInternationalEurope.uk" tvg-name="CNN International" tvg-logo="https://i.imgur.com/05S3yYZ.png" group-title="News",CNN International
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png" group-title="News",CNN US
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="CNBCEurope.uk" tvg-name="CNBC Europe" tvg-logo="https://i.imgur.com/B6sfpDa.png" group-title="News",CNBC Europe
 https://vidplus.pc.cdn.bitgravity.com/cnbceu-origin/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="News",NHK World
