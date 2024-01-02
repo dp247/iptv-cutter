@@ -30,8 +30,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: execute py script
+      - name: execute main.py script
         run: python main.py
+
+      - name: execute curated.py script
+        run: python curated.py
 
       - name: commit files
         run: |
