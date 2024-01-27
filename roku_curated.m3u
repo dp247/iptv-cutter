@@ -1,37 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/b6a492b04d7d534fa0e9e69380382d02/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694819506729_DAZN_TV_Ringside_Channel_HUD_Logo.png",DAZN Ringside
-https://i.mjh.nz/Roku/b6a492b04d7d534fa0e9e69380382d02.m3u8
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/afcc6b3245015de1ac7d768093cd7695/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1680796892865_INFO_HUD_STADIUM.png",Stadium
-https://i.mjh.nz/Roku/afcc6b3245015de1ac7d768093cd7695.m3u8
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/62f1cd0d4c395a2a8ab72cff688666a0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1668537442136_ROKU-SPORTSGRID-LIVE-HUD-LOGO-EFEFEF.png",SPORTSGRID
-https://i.mjh.nz/Roku/62f1cd0d4c395a2a8ab72cff688666a0.m3u8
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/5bb5fc612a5e580f8a5832fa3b7089e7/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1687354079386_Torque_260x147_W-Logo-Center_NEW.png",Torque
-https://i.mjh.nz/Roku/5bb5fc612a5e580f8a5832fa3b7089e7.m3u8
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/11f70f2cc59750f4ad9a019d72ad17b1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1705940612752_WSNLogo_HUDCenter.png",Women's Sports Network
 https://i.mjh.nz/Roku/11f70f2cc59750f4ad9a019d72ad17b1.m3u8
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/c4bdfe6fd751590e9d096b5de264bba1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1678995051754_image_hud1_260x147.png",Rakuten Viki
-https://i.mjh.nz/Roku/c4bdfe6fd751590e9d096b5de264bba1.m3u8
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/df14db5ffb64531ea5132b8345be4914/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1678147140512_WMX_HIPHOP_LOGO_HUD.png",WMX Hip Hop
-https://i.mjh.nz/Roku/df14db5ffb64531ea5132b8345be4914.m3u8
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/8c48bcf59acd57779977b83a41fac919/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1697035676086_Swerve_Combat_Logo_260x147_Center_Align_White.png",Swerve Combat
-https://i.mjh.nz/Roku/8c48bcf59acd57779977b83a41fac919.m3u8
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/a90a91570ce0536cbb22b591ad7e0da2/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1698173441036_nbc-sports-fast-channel-fclogo-72-dpi-260-x-147-260-147-roku-hud-logo-center-aligned-transparent-bkgd-1.png",NBC Sports
-https://i.mjh.nz/Roku/a90a91570ce0536cbb22b591ad7e0da2.m3u8
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/e0970e3e4ea951689b1a15f64b091cb1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1657584599992_Updated_260x147_CenterWhite_FTFSports.png",For The Fans
-https://i.mjh.nz/Roku/e0970e3e4ea951689b1a15f64b091cb1.m3u8
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/bb47d1c095a456618924489ed6e6b8e0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1655143270376_HUD_Redbox-FreeMovies_260x147-centered.png",REDBOX FREE MOVIES
-https://i.mjh.nz/Roku/bb47d1c095a456618924489ed6e6b8e0.m3u8
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/c60d4ea89eb75a5b85cd436dbdf08ccf/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1655144078867_6844.4_Roku-Syndicated-Channel_260x147.png",Redbox Romance
 https://i.mjh.nz/Roku/c60d4ea89eb75a5b85cd436dbdf08ccf.m3u8
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/5941b88c38ab50ad8b09b0d920abbae5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1678147364704_WMX_ROCK_LOGO_HUD.png",WMX Rock
-https://i.mjh.nz/Roku/5941b88c38ab50ad8b09b0d920abbae5.m3u8
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/79ed68ed51ad522b8783c6c42a5e2e8c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675112681628_DMR_-_AsianCrush_Roku-Channel_Info-HUD2.png",AsianCrush
-https://i.mjh.nz/Roku/79ed68ed51ad522b8783c6c42a5e2e8c.m3u8
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/5bb5fc612a5e580f8a5832fa3b7089e7/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1687354079386_Torque_260x147_W-Logo-Center_NEW.png",Torque
+https://i.mjh.nz/Roku/5bb5fc612a5e580f8a5832fa3b7089e7.m3u8
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/afcc6b3245015de1ac7d768093cd7695/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1680796892865_INFO_HUD_STADIUM.png",Stadium
+https://i.mjh.nz/Roku/afcc6b3245015de1ac7d768093cd7695.m3u8
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/c4bdfe6fd751590e9d096b5de264bba1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1678995051754_image_hud1_260x147.png",Rakuten Viki
+https://i.mjh.nz/Roku/c4bdfe6fd751590e9d096b5de264bba1.m3u8
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/b6a492b04d7d534fa0e9e69380382d02/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694819506729_DAZN_TV_Ringside_Channel_HUD_Logo.png",DAZN Ringside
+https://i.mjh.nz/Roku/b6a492b04d7d534fa0e9e69380382d02.m3u8
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/a90a91570ce0536cbb22b591ad7e0da2/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1698173441036_nbc-sports-fast-channel-fclogo-72-dpi-260-x-147-260-147-roku-hud-logo-center-aligned-transparent-bkgd-1.png",NBC Sports
+https://i.mjh.nz/Roku/a90a91570ce0536cbb22b591ad7e0da2.m3u8
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/8c48bcf59acd57779977b83a41fac919/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1697035676086_Swerve_Combat_Logo_260x147_Center_Align_White.png",Swerve Combat
+https://i.mjh.nz/Roku/8c48bcf59acd57779977b83a41fac919.m3u8
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/62f1cd0d4c395a2a8ab72cff688666a0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1668537442136_ROKU-SPORTSGRID-LIVE-HUD-LOGO-EFEFEF.png",SPORTSGRID
+https://i.mjh.nz/Roku/62f1cd0d4c395a2a8ab72cff688666a0.m3u8
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/c423f0f050355a6fb8bcf7644af61852/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673451957548_FilmRise-Sci-Fi_260x147_copy.png",FilmRise Sci-Fi
 https://i.mjh.nz/Roku/c423f0f050355a6fb8bcf7644af61852.m3u8
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/dead0e7a46da533c94c61c8710ef3418/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673450854254_FR_BRITISHTV_HUD_CenterAligned.png",FilmRise British TV
-https://i.mjh.nz/Roku/dead0e7a46da533c94c61c8710ef3418.m3u8
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/bb47d1c095a456618924489ed6e6b8e0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1655143270376_HUD_Redbox-FreeMovies_260x147-centered.png",REDBOX FREE MOVIES
+https://i.mjh.nz/Roku/bb47d1c095a456618924489ed6e6b8e0.m3u8
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/e0970e3e4ea951689b1a15f64b091cb1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1657584599992_Updated_260x147_CenterWhite_FTFSports.png",For The Fans
+https://i.mjh.nz/Roku/e0970e3e4ea951689b1a15f64b091cb1.m3u8
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/5941b88c38ab50ad8b09b0d920abbae5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1678147364704_WMX_ROCK_LOGO_HUD.png",WMX Rock
+https://i.mjh.nz/Roku/5941b88c38ab50ad8b09b0d920abbae5.m3u8
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/e2ba2f7fcfe85153ba70c5af66fa22ff/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1678147329401_WMX_POP_LOGO_HUD.png",WMX Pop
 https://i.mjh.nz/Roku/e2ba2f7fcfe85153ba70c5af66fa22ff.m3u8
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/79ed68ed51ad522b8783c6c42a5e2e8c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675112681628_DMR_-_AsianCrush_Roku-Channel_Info-HUD2.png",AsianCrush
+https://i.mjh.nz/Roku/79ed68ed51ad522b8783c6c42a5e2e8c.m3u8
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/df14db5ffb64531ea5132b8345be4914/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1678147140512_WMX_HIPHOP_LOGO_HUD.png",WMX Hip Hop
+https://i.mjh.nz/Roku/df14db5ffb64531ea5132b8345be4914.m3u8
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/dead0e7a46da533c94c61c8710ef3418/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673450854254_FR_BRITISHTV_HUD_CenterAligned.png",FilmRise British TV
+https://i.mjh.nz/Roku/dead0e7a46da533c94c61c8710ef3418.m3u8
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/307b3b9ea321539b9688148fc97a8bfd/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694207383202_RokuImage-HUD-2_260x147px_Wil_Rosser.png",Crunchyroll
 https://i.mjh.nz/Roku/307b3b9ea321539b9688148fc97a8bfd.m3u8
