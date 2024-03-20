@@ -24,7 +24,8 @@ pluto_gb_channels = ["Pluto TV Movies", "Pluto TV Action", "Pluto TV Sci-Fi", "P
                      "Pluto TV Conspiracy", "Pluto TV Science", "Pluto TV History", "5 Britain at War", "World War TV",
                      "UKTV Play Uncovered", "Voyager Documentaries", "Get.factual", "World's Greatest",
                      "5 Exploring Britain", "Pluto TV Big Builds", "Pluto TV Music", "MTV Classic",
-                     "Yo! MTV Raps Classic", "MTV Movie Hits", "MTV Love", "Pluto TV K-Pop", "MTV Rocks"]
+                     "Yo! MTV Raps Classic", "MTV Movie Hits", "MTV Love", "Pluto TV K-Pop", "MTV Rocks",
+                     "Pluto TV Animation"]
 pluto_us_channels = ["Pluto TV Spotlight", "Pluto TV Icons", "Pluto TV Reaction", "Pluto TV Drama", "Pluto TV Fantastic",
                      "Pluto TV Romance", "Pluto TV Staff Picks", "MovieSphere by Lionsgate", "Pluto TV Documentaries",
                      "70s Cinema", "80s Rewind", "90s Throwback", "00s Replay", "Paramount Movie Channel",
@@ -49,15 +50,17 @@ samsung_uk_channels = ["Entertainment Hub", "Comedy Hub", "Comedy Movies - Rakut
                        "Real Series - Rakuten TV", "Comedy Dynamics", "Sky Mix", "World Drama by ITV Studios",
                        "Radical Docs", "Documentaries - Rakuten TV", "INWONDER", "INFAST", "PBS History", "INWILD",
                        "CNN FAST", "FRANCE 24 FAST", "Bloomberg Originals", "FIFA+", "Red Bull TV", "Trace UK", "GIGS",
-                       "Tennis Channel International", "Origin Sports", "INTROUBLE", "Trace Urban", "Qwest TV",
+                       "Tennis Channel International", "Origin Sports", "INTROUBLE", "Trace UK", "Qwest TV",
                        "Deluxe Lounge HD", "Qello Concerts by Stingray", "Clubbing TV", "Romance Movies - Rakuten TV",
-                       "wedo movies", "MovieSphere", "GREAT! movies", "Top Movies - Rakuten TV",
-                       "Drama Movies - Rakuten TV", "Action Movies - Rakuten TV"]
+                       "wedo movies", "MovieSphere", "GREAT! movies", "GREAT! romance", "Top Movies - Rakuten TV",
+                       "Drama Movies - Rakuten TV", "Action Movies - Rakuten TV", "Crime Network",
+                       "The Graham Norton Show", "Horizons", "Super Anime", "GIGS", "Trace Urban", "XITE Hits",
+                       "Pointless UK: 'Powered by Banijay'", "Challenge", "Wipeout Xtra Powered by Banijay"]
 samsung_us_channels = ["History 365", "ION Plus", "VICE", "MHz Now", "The Rotten Tomatoes Channel",
                        "ION Mystery", "fubo Sports Network", "Tastemade Home", "Tastemade Travel", "Journy",
                        "Hungry", "Kitchen Nightmares", "Conan O'Brien TV", "Dry Bar Comedy", "RiffTrax", "FilmRise",
-                       "Samsung Wild Life", "TED", "PBS Digital Studios",
-                       "FilmRise Action", "Documentary+", "NEW KMOVIES", "The Preview Channel"]
+                       "Samsung Wild Life", "TED", "PBS Digital Studios", "XITE Icons", "XITE Rock On",
+                       "XITE Just Chill", "FilmRise Action", "Documentary+", "NEW KMOVIES", "The Preview Channel"]
 stirr_channels = ["Swerve Sports", "CHARGE", "COMET", "TBD", "Electric Now", "Midnight Pulp", "RetroCrush", "LiveXLive",
                   "PursuitUp", "The T", "It's Showtime at the Apollo", "SOAR"]
 roku_channels = ["NBC Sports", "Women's Sports Network", "Stadium", "For The Fans", "Swerve Combat", "DAZN Ringside",
