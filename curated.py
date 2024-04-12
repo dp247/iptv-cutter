@@ -55,7 +55,9 @@ samsung_uk_channels = ["Entertainment Hub", "Comedy Hub", "Comedy Movies - Rakut
                        "wedo movies", "MovieSphere", "GREAT! movies", "GREAT! romance", "Top Movies - Rakuten TV",
                        "Drama Movies - Rakuten TV", "Action Movies - Rakuten TV", "Crime Network",
                        "The Graham Norton Show", "Horizons", "Super Anime", "GIGS", "Trace Urban", "XITE Hits",
-                       "Pointless UK: 'Powered by Banijay'", "Challenge", "Wipeout Xtra Powered by Banijay"]
+                       "Pointless UK: 'Powered by Banijay'", "Challenge", "Wipeout Xtra Powered by Banijay", "Sony One Comedy TV",
+                      "Sony One Dragons Den", "Sony One Thriller TV", "Sony One FAVES", "Sony One Action HITS", "Sony One Comedy HITS",
+                      "True Crime UK"]
 samsung_us_channels = ["History 365", "ION Plus", "VICE", "MHz Now", "The Rotten Tomatoes Channel",
                        "ION Mystery", "fubo Sports Network", "Tastemade Home", "Tastemade Travel", "Journy",
                        "Hungry", "Kitchen Nightmares", "Conan O'Brien TV", "Dry Bar Comedy", "RiffTrax", "FilmRise",
