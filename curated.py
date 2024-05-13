@@ -86,12 +86,6 @@ print(f"SS US: Loaded {len(stv_us.get_list())} channels")
 stv_us.filter_by("name", samsung_us_channels, retrieve=True)
 stv_us.to_file("ss_us_curated", "m3u")
 
-stirr = M3uParser(timeout=5, useragent=user_agent)
-stirr.parse_m3u(stirr_url)
-print(f"Stirr: Loaded {len(stirr.get_list())} channels")
-stirr.filter_by("name", stirr_channels, retrieve=True)
-stirr.to_file("stirr_curated", "m3u")
-
 roku = M3uParser(timeout=5, useragent=user_agent)
 roku.parse_m3u(roku_url)
 print(f"Roku: Loaded {len(roku.get_list())} channels")
