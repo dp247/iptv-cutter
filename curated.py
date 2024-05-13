@@ -56,7 +56,7 @@ samsung_uk_channels = ["Entertainment Hub", "Comedy Hub", "Comedy Movies - Rakut
                        "Drama Movies - Rakuten TV", "Action Movies - Rakuten TV", "Crime Network",
                        "The Graham Norton Show", "Horizons", "Super Anime", "GIGS", "Trace Urban", "XITE Hits",
                        "Pointless UK: 'Powered by Banijay'", "Challenge", "Wipeout Xtra Powered by Banijay", "Sony One Comedy TV",
-                      "Sony One Dragons Den", "Sony One Thriller TV", "Sony One FAVES", "Sony One Action HITS", "Sony One Comedy HITS",
+                      "Sony One Dragons Den", "Sony One Thriller TV", "Sony One FAVES", "Sony One Action HITS", "Sony One Comedy TV",
                       "True Crime UK"]
 samsung_us_channels = ["History 365", "ION Plus", "VICE", "MHz Now", "The Rotten Tomatoes Channel",
                        "ION Mystery", "fubo Sports Network", "Tastemade Home", "Tastemade Travel", "Journy",
@@ -66,7 +66,7 @@ samsung_us_channels = ["History 365", "ION Plus", "VICE", "MHz Now", "The Rotten
 roku_channels = ["NBC Sports", "Women's Sports Network", "Stadium", "For The Fans", "Swerve Combat", "DAZN Ringside",
                  "Torque", "SPORTSGRID", "Redbox Romance", "REDBOX FREE MOVIES", "FilmRise British TV", "RetroCrush",
                  "Rakuten Viki", "AsianCrush", "Crunchyroll", "FilmRise Sci-Fi", "WMX Hip Hop", "WMX Pop", "WMX Rock",
-                 "Midnight Pulp", "Electric Now", "Torque"]
+                 "Midnight Pulp", "Electric Now", "Torque", "SNL Vault"]
 
 pluto_uk = M3uParser(timeout=5, useragent=user_agent)
 pluto_uk.parse_m3u(pluto_uk_url)
