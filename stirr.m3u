@@ -1,109 +1,109 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="5442" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/03/21/1711050143xj230eD6gK-512x512-square.png",Always Funny
-https://linear-12.frequency.stream/dist/stirr/12/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="5274" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/01/31/1706733806MaB2vqPJDD-512x512-square.png",SWERVE TV
-https://linear-253.frequency.stream/dist/stirr/253/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="771" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2022/08/25/1661452611f3ZQYyky7j-512x512-square.png",FITE 24/7
-https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-Nuestra/263.m3u8
-#EXTINF:-1 tvg-id="5301" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707445029FZFhESXbFB-512x512-square.png",Operation Repo
-https://dk8sz5lavsosw.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-OperationRepo/427.m3u8
-#EXTINF:-1 tvg-id="1072" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2022/09/05/1662383251k3xfq6RI1U-512x512-square.png",Channel Fight
-https://d15wqvt0xm15k4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/ChannelFight-Nuestra/266.m3u8
-#EXTINF:-1 tvg-id="5428" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/03/01/1709331714ve9YfyJg23-512x512-square.png",JLTV
-https://vcnjltv.teleosmedia.com/stream/jltv/jltv01/playlist.m3u8
-#EXTINF:-1 tvg-id="5735" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712612750Npdv5y4sxH-512x512-square.jpg",Just for Laughs
-https://streams2.sofast.tv/ptnr-stirr/genre-Comedy/lang-Non-Verbal/ctgr-Comedy/title-JUST_FOR_LAUGHS_GAGS/sofastplayout/4c727f82-d2ec-4a07-870c-49a6f22ee6f9_0_HLS/manifest.m3u8
-#EXTINF:-1 tvg-id="5746" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712614773d0hO0AsmYW-512x512-square.png",ENCORE+
-https://streams2.sofast.tv/ptnr-stirr/genre-Movies/lang-English/ctgr-Movies/title-ENCORE-ENG/sofastplayout/11d7f7fd-9c12-4c8a-b1a8-e879821e2187_1000014907_HLS/master.m3u8
-#EXTINF:-1 tvg-id="6207" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/05/10/1715321470Kdkn5LQ6JH-512x512-square.png",Always Funny: Pranks & Fails
-https://linear-863.frequency.stream/dist/stirr/863/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="5748" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712615596PiXd3KGBGy-512x512-square.png",KIDDO+
-https://streams2.sofast.tv/ptnr-stirr/genre-Education/lang-English/ctgr-Kids/title-KIDDO-ENG/sofastplayout/8258122f-b4c0-416b-a2db-8407847f0c3c_1000015692_HLS/manifest.m3u8
-#EXTINF:-1 tvg-id="5741" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712614207epG0O1C8HN-512x512-square.png",Beani TV
-https://streams2.sofast.tv/ptnr-stirr/genre-Animation_Anime/lang-English/ctgr-Cartoons/title-BEANI_TV/sofastplayout/f7973a17-2f10-483e-a4e1-c7cbaee7c3d9_0_HLS/manifest.m3u8
-#EXTINF:-1 tvg-id="5740" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712613664IxmNkW3C0m-512x512-square.png",Ace TV
-https://streams2.sofast.tv/ptnr-stirr/genre-Sports/lang-English/ctgr-Sport/title-ACE_TV/WiseM3U8_30/sofast/cleanhls/master.m3u8
-#EXTINF:-1 tvg-id="5721" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712609473hjETuhYlFl-512x512-square.png",Automotions
-https://streams2.sofast.tv/ptnr-stirr/genre-Sports/lang-English/ctgr-Sport/title-AUTOMOTIONS/sofastplayout/0c3229e2-6ca5-4714-859e-c0ac6b9aa58a_0_HLS/manifest.m3u8
-#EXTINF:-1 tvg-id="5441" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/03/21/1711049863a020ieNKak-512x512-square.png",TBN
-https://d7ge95bb03xsu.cloudfront.net/out/v1/e0fd0e2c760641fa816a3e216b3ca9c0/tbn-stirr.m3u8
-#EXTINF:-1 tvg-id="5888" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/05/02/1714674378GmtdY2HMm0-512x512-square.png",Biz Talk Today TV
-https://d3htp73xsa9p15.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-BizTalk/445.m3u8
-#EXTINF:-1 tvg-id="5752" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712615887YxCSHkZjQv-512x512-square.png",MERCURY+
-https://streams2.sofast.tv/ptnr-stirr/genre-Entertainment/lang-English/ctgr-Movies/title-MERCURY-ENG/sofastplayout/b7867c83-0c17-4de2-a74b-beb972c4f342_1000015693_HLS/master.m3u8
-#EXTINF:-1 tvg-id="5745" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712614492V41m7Es0qF-512x512-square.png",Cowboy Movie Channel
-https://streams2.sofast.tv/ptnr-stirr/genre-Entertainment/lang-English/ctgr-Movies/title-COWBOY-MOVIE-CHANNEL-ENG/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/manifest.m3u8
-#EXTINF:-1 tvg-id="5294" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/17074404126L5Wr4c9E7-512x512-square.png",Cricket Gold
-https://d382r3rgbxdixq.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CricketGold/418.m3u8
-#EXTINF:-1 tvg-id="5300" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707442456xf6tRG4fFT-512x512-square.png",The Grappling Network
-https://d1vwakhda3vp6p.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-TheGrapplingNetwork/236.m3u8
-#EXTINF:-1 tvg-id="5739" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712613230W2oYDwibh5-512x512-square.png",Docu Vision
-https://streams2.sofast.tv/ptnr-stirr/genre-Entertainment/lang-English/ctgr-Documentary/title-DOCUVISION-ENG/sofastplayout/7e8d2a51-985d-4e76-bf7e-91edf0aa6e5f_0_HLS/manifest.m3u8
-#EXTINF:-1 tvg-id="5730" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712611356BpC0G7E9wA-512x512-square.png",Nitro TV
-https://streams2.sofast.tv/ptnr-stirr/genre-Sports/lang-English/ctgr-Sport/title-NITRO-TV-ENG/sofastplayout/71960d71-216f-47f3-bfe5-5b1386c05760_0_HLS/manifest.m3u8
-#EXTINF:-1 tvg-id="5716" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/171260816144iEUqMsLC-512x512-square.png",EuroNews
-https://streams2.sofast.tv/ptnr-stirr/genre-News/lang-English/ctgr-News/title-Euro_News_EN/sofastplayout/diQ7G9vaxhcQl5G6/ewnsabren_eng.m3u8
-#EXTINF:-1 tvg-id="5734" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712612339bhKq2lZNGi-512x512-square.png",4K Travel TV
-https://streams2.sofast.tv/ptnr-stirr/genre-Travel/lang-English/ctgr-Travel/title-4K-TRAVEL-TV-ENG/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/manifest.m3u8
-#EXTINF:-1 tvg-id="5295" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707440878KxBQASrLNy-512x512-square.png",Equus TV
-https://d2gwqf8gdwq1zs.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-EQUUSTV/426.m3u8
-#EXTINF:-1 tvg-id="5293" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707439856kv40RRNDV4-512x512-square.png",Adventure Sports TV
-https://d3rl6ns7c3ilda.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-AdventureSportsTV/438.m3u8
-#EXTINF:-1 tvg-id="5747" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712615307rd7sNLdHNe-512x512-square.png",Hunt Fish TV
-https://streams2.sofast.tv/ptnr-stirr/genre-Sports/lang-English/ctgr-Sport/title-HUNT_FISH_TV/sofastplayout/WiseM3U8_2/master.m3u8
-#EXTINF:-1 tvg-id="5887" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/05/02/17146738219e46A2lfds-512x512-square.png",Surfing Plus
-https://dr4jwhk0sty71.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-SurfingPlus/444.m3u8
-#EXTINF:-1 tvg-id="5304" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707446483Xo5uqT2uBS-512x512-square.png",Poker Night in America
-https://d2njbreu8qyfxo.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-PokerNightInAmerica/216.m3u8
-#EXTINF:-1 tvg-id="5305" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707446902rOUCzuiQg4-512x512-square.jpg",Sports First
-https://d4ddgdmj1cvnm.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-SportsFirstTV/409.m3u8
-#EXTINF:-1 tvg-id="5455" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/01/1712001998Xt0MB9DPaR-512x512-square.jpg",Family Time
-https://amg09501-questar-amg09501c3-stirr-us-3096.playouts.now.amagi.tv/amg09501/AMG09501C3/segmented_playlist/0/35-89-3096.m3u8
-#EXTINF:-1 tvg-id="5408" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/23/1708719883hRITv8N8eW-512x512-square.png",RVTV
-https://RVTV-STIRR.b-cdn.net/RVTV-on-STIRR/index.m3u8
-#EXTINF:-1 tvg-id="1549" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2022/10/10/1665417153z12fFv2AJQ-512x512-square.jpg",Extreme+
-https://d3p1dbb9xrkmd5.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/NuestraTV-MuxIP-ExtremePlus/276.m3u8
-#EXTINF:-1 tvg-id="5407" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/23/170871539370SyzUanQG-512x512-square.png",Drone TV
-https://dtc192m1s5jen.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-DroneTV/440.m3u8
-#EXTINF:-1 tvg-id="5308" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707447606lfFjnn5nEx-512x512-square.png",Zoomer TV
-https://d3p8ecnk6t4t73.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-ZoomerTV/316.m3u8
-#EXTINF:-1 tvg-id="5720" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712608909uUKqPRY67T-512x512-square.png",VOA (Voice of America)
-https://streams2.sofast.tv/ptnr-stirr/genre-News/lang-English/ctgr-News/title-VOA_English/voa-eng/playlist.m3u8
-#EXTINF:-1 tvg-id="5292" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/17074387978Cn1LaRusH-512x512-square.png",24 Hour Free Movies
-https://d1j2u714xk898n.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-24HourFreeMovies/145.m3u8
-#EXTINF:-1 tvg-id="5302" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707445067DapGBq9zX8-512x512-square.png",Humor Mill TV
-https://du1gyxfing4ke.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-HumorMill/152.m3u8
-#EXTINF:-1 tvg-id="5299" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707442253rVkI5jmfsL-512x512-square.png",Freebie TV
-https://d26pp4b7ojtlyn.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-FreebieTV/187.m3u8
-#EXTINF:-1 tvg-id="5453" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/01/1712000649TrNcfgiqdz-512x512-square.jpg",Gotraveler
-https://amg09501-questar-amg09501c1-stirr-us-3094.playouts.now.amagi.tv/amg09501/AMG09501C1/segmented_playlist/0/35-89-3094.m3u8
-#EXTINF:-1 tvg-id="5296" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707441203VRdjhw4UfZ-512x512-square.png",EVRGRN TV
-https://d3i0k0tahnbipo.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-EVRGRN/255.m3u8
-#EXTINF:-1 tvg-id="5298" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707442110xv8oh5GFbt-512x512-square.png",Feva TV
-https://d3c1w351ahk83d.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-FEVATV/416.m3u8
-#EXTINF:-1 tvg-id="5456" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/01/1712004390ewprmhf8Rh-512x512-square.png",Travelxp
-https://amg00416-amg00416c1-stirr-us-3092.playouts.now.amagi.tv/35-89-3092.m3u8
-#EXTINF:-1 tvg-id="5273" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/01/31/1706733107gC1NOuIrru-512x512-square.jpg",CrimeFlix
-https://dgx2snzx175pa.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CrimeFlix/391.m3u8
-#EXTINF:-1 tvg-id="5290" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/08/1707435560ZF3REwypLC-512x512-square.jpg",The Big Dish Channel
-https://amg01717-qvc-amg01717c1-stirr-us-2651.playouts.now.amagi.tv/qvc-bigdishdelayed-switcher-localnow/playlist.m3u8
-#EXTINF:-1 tvg-id="5297" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707441388y5JAA4UyzK-512x512-square.png",Feva Music
-https://d2y0xw9ugf4if7.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-FEVAMusic/417.m3u8
-#EXTINF:-1 tvg-id="5454" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/01/1712001822nznanJgm1T-512x512-square.jpg",Hipstr
-https://amg09501-questar-amg09501c2-stirr-us-3095.playouts.now.amagi.tv/amg09501/AMG09501C2/segmented_playlist/0/35-89-3095.m3u8
-#EXTINF:-1 tvg-id="5430" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/03/07/1709832676KjRR7jMuCJ-512x512-square.png",RightNow TV
-https://c.streamhoster.com/link/hls/W5s34R/itgDhh1s2rp/i2TGEWs0VKK_5/playlist.m3u8
-#EXTINF:-1 tvg-id="5307" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707447082WSnNLiAiwP-512x512-square.png",Stellar TV
-https://d3kddmbw1dqgzz.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-StellarTV/332.m3u8
-#EXTINF:-1 tvg-id="6403" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/05/21/1716314429vaHSoXxCT6-512x512-square.png",Unexplained TV
-https://d2anxoa8ay4brr.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-UnexplainedTV/454.m3u8
-#EXTINF:-1 tvg-id="3353" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2023/02/28/1677525969XOownbFiza-512x512-square.png",Omstars
-https://d1too6m5v9oyet.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/NuestraTV-MuxIP-Omstars/281.m3u8
-#EXTINF:-1 tvg-id="5726" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/17126107611l3ZAg8tJ1-512x512-square.png",Nautical Channel
-https://streams2.sofast.tv/ptnr-stirr/genre-Sports/lang-English/ctgr-Sport/title-Nautical_TV/vglive-sk-231198/index.m3u8
-#EXTINF:-1 tvg-id="5303" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707446072tnQEMOWsB1-512x512-square.png",Plymouth Rock TV
-https://d30au7974f7qoa.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-PlymouthRockTV/419.m3u8
-#EXTINF:-1 tvg-id="5288" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/08/1707417941sC3CsSFe4t-512x512-square.png",OAN plus
-https://cdn.herringnetwork.com/80A4DFF/n1.herringnetwork.com/affiliate/oane_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="5289" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/08/1707418171gi9D5gADWQ-512x512-square.png",AWE plus
-https://cdn.herringnetwork.com/80A4DFF/n1.herringnetwork.com/affiliate/awee_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="5274" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/01/31/1706733806MaB2vqPJDD-512x512-square.png" group-title="Sports Live",SWERVE TV
+https://i.mjh.nz/Stirr/5274.m3u8
+#EXTINF:-1 tvg-id="5289" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/08/1707418171gi9D5gADWQ-512x512-square.png" group-title="Entertainment Live",AWE plus
+https://i.mjh.nz/Stirr/5289.m3u8
+#EXTINF:-1 tvg-id="5300" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707442456xf6tRG4fFT-512x512-square.png" group-title="Sports Live",The Grappling Network
+https://i.mjh.nz/Stirr/5300.m3u8
+#EXTINF:-1 tvg-id="5441" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/03/21/1711049863a020ieNKak-512x512-square.png" group-title="Entertainment Live",TBN
+https://i.mjh.nz/Stirr/5441.m3u8
+#EXTINF:-1 tvg-id="5407" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/23/170871539370SyzUanQG-512x512-square.png" group-title="Sports Live",Drone TV
+https://i.mjh.nz/Stirr/5407.m3u8
+#EXTINF:-1 tvg-id="5294" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/17074404126L5Wr4c9E7-512x512-square.png" group-title="Sports Live",Cricket Gold
+https://i.mjh.nz/Stirr/5294.m3u8
+#EXTINF:-1 tvg-id="5293" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707439856kv40RRNDV4-512x512-square.png" group-title="Sports Live",Adventure Sports TV
+https://i.mjh.nz/Stirr/5293.m3u8
+#EXTINF:-1 tvg-id="5305" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707446902rOUCzuiQg4-512x512-square.jpg" group-title="News Live;Sports Live",Sports First
+https://i.mjh.nz/Stirr/5305.m3u8
+#EXTINF:-1 tvg-id="5298" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707442110xv8oh5GFbt-512x512-square.png" group-title="Entertainment Live",Feva TV
+https://i.mjh.nz/Stirr/5298.m3u8
+#EXTINF:-1 tvg-id="6403" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/05/21/1716314429vaHSoXxCT6-512x512-square.png" group-title="Entertainment Live",Unexplained TV
+https://i.mjh.nz/Stirr/6403.m3u8
+#EXTINF:-1 tvg-id="5299" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707442253rVkI5jmfsL-512x512-square.png" group-title="Entertainment Live",Freebie TV
+https://i.mjh.nz/Stirr/5299.m3u8
+#EXTINF:-1 tvg-id="5741" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712614207epG0O1C8HN-512x512-square.png" group-title="Entertainment Live",Beani TV
+https://i.mjh.nz/Stirr/5741.m3u8
+#EXTINF:-1 tvg-id="5752" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712615887YxCSHkZjQv-512x512-square.png" group-title="Entertainment Live",MERCURY+
+https://i.mjh.nz/Stirr/5752.m3u8
+#EXTINF:-1 tvg-id="5735" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712612750Npdv5y4sxH-512x512-square.jpg" group-title="Entertainment Live",Just for Laughs
+https://i.mjh.nz/Stirr/5735.m3u8
+#EXTINF:-1 tvg-id="5734" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712612339bhKq2lZNGi-512x512-square.png" group-title="Travel Live",4K Travel TV
+https://i.mjh.nz/Stirr/5734.m3u8
+#EXTINF:-1 tvg-id="5428" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/03/01/1709331714ve9YfyJg23-512x512-square.png" group-title="Entertainment Live",JLTV
+https://i.mjh.nz/Stirr/5428.m3u8
+#EXTINF:-1 tvg-id="6207" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/05/10/1715321470Kdkn5LQ6JH-512x512-square.png" group-title="Comedy Live",Always Funny: Pranks & Fails
+https://i.mjh.nz/Stirr/6207.m3u8
+#EXTINF:-1 tvg-id="5288" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/08/1707417941sC3CsSFe4t-512x512-square.png" group-title="News Live",OAN plus
+https://i.mjh.nz/Stirr/5288.m3u8
+#EXTINF:-1 tvg-id="5442" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/03/21/1711050143xj230eD6gK-512x512-square.png" group-title="Comedy Live",Always Funny
+https://i.mjh.nz/Stirr/5442.m3u8
+#EXTINF:-1 tvg-id="1072" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2022/09/05/1662383251k3xfq6RI1U-512x512-square.png" group-title="Sports Live",Channel Fight
+https://i.mjh.nz/Stirr/1072.m3u8
+#EXTINF:-1 tvg-id="5408" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/23/1708719883hRITv8N8eW-512x512-square.png" group-title="Entertainment Live",RVTV
+https://i.mjh.nz/Stirr/5408.m3u8
+#EXTINF:-1 tvg-id="5746" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712614773d0hO0AsmYW-512x512-square.png" group-title="Entertainment Live",ENCORE+
+https://i.mjh.nz/Stirr/5746.m3u8
+#EXTINF:-1 tvg-id="5455" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/01/1712001998Xt0MB9DPaR-512x512-square.jpg" group-title="Entertainment Live",Family Time
+https://i.mjh.nz/Stirr/5455.m3u8
+#EXTINF:-1 tvg-id="5745" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712614492V41m7Es0qF-512x512-square.png" group-title="Entertainment Live",Cowboy Movie Channel
+https://i.mjh.nz/Stirr/5745.m3u8
+#EXTINF:-1 tvg-id="5740" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712613664IxmNkW3C0m-512x512-square.png" group-title="Entertainment Live",Ace TV
+https://i.mjh.nz/Stirr/5740.m3u8
+#EXTINF:-1 tvg-id="5721" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712609473hjETuhYlFl-512x512-square.png" group-title="Sports Live",Automotions
+https://i.mjh.nz/Stirr/5721.m3u8
+#EXTINF:-1 tvg-id="5716" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/171260816144iEUqMsLC-512x512-square.png" group-title="News Live",EuroNews
+https://i.mjh.nz/Stirr/5716.m3u8
+#EXTINF:-1 tvg-id="5739" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712613230W2oYDwibh5-512x512-square.png" group-title="Entertainment Live",Docu Vision
+https://i.mjh.nz/Stirr/5739.m3u8
+#EXTINF:-1 tvg-id="5747" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712615307rd7sNLdHNe-512x512-square.png" group-title="Entertainment Live",Hunt Fish TV
+https://i.mjh.nz/Stirr/5747.m3u8
+#EXTINF:-1 tvg-id="5748" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712615596PiXd3KGBGy-512x512-square.png" group-title="Entertainment Live",KIDDO+
+https://i.mjh.nz/Stirr/5748.m3u8
+#EXTINF:-1 tvg-id="5730" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712611356BpC0G7E9wA-512x512-square.png" group-title="Sports Live",Nitro TV
+https://i.mjh.nz/Stirr/5730.m3u8
+#EXTINF:-1 tvg-id="5290" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/08/1707435560ZF3REwypLC-512x512-square.jpg" group-title="Food and Fitness Live",The Big Dish Channel
+https://i.mjh.nz/Stirr/5290.m3u8
+#EXTINF:-1 tvg-id="5273" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/01/31/1706733107gC1NOuIrru-512x512-square.jpg" group-title="Entertainment Live",CrimeFlix
+https://i.mjh.nz/Stirr/5273.m3u8
+#EXTINF:-1 tvg-id="5888" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/05/02/1714674378GmtdY2HMm0-512x512-square.png" group-title="News Live",Biz Talk Today TV
+https://i.mjh.nz/Stirr/5888.m3u8
+#EXTINF:-1 tvg-id="5303" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707446072tnQEMOWsB1-512x512-square.png" group-title="Music Live",Plymouth Rock TV
+https://i.mjh.nz/Stirr/5303.m3u8
+#EXTINF:-1 tvg-id="5301" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707445029FZFhESXbFB-512x512-square.png" group-title="Entertainment Live",Operation Repo
+https://i.mjh.nz/Stirr/5301.m3u8
+#EXTINF:-1 tvg-id="5453" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/01/1712000649TrNcfgiqdz-512x512-square.jpg" group-title="Travel Live",Gotraveler
+https://i.mjh.nz/Stirr/5453.m3u8
+#EXTINF:-1 tvg-id="5454" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/01/1712001822nznanJgm1T-512x512-square.jpg" group-title="Entertainment Live",Hipstr
+https://i.mjh.nz/Stirr/5454.m3u8
+#EXTINF:-1 tvg-id="5302" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707445067DapGBq9zX8-512x512-square.png" group-title="Comedy Live",Humor Mill TV
+https://i.mjh.nz/Stirr/5302.m3u8
+#EXTINF:-1 tvg-id="1549" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2022/10/10/1665417153z12fFv2AJQ-512x512-square.jpg" group-title="Sports Live",Extreme+
+https://i.mjh.nz/Stirr/1549.m3u8
+#EXTINF:-1 tvg-id="5304" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707446483Xo5uqT2uBS-512x512-square.png" group-title="Sports Live",Poker Night in America
+https://i.mjh.nz/Stirr/5304.m3u8
+#EXTINF:-1 tvg-id="5456" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/01/1712004390ewprmhf8Rh-512x512-square.png" group-title="Travel Live",Travelxp
+https://i.mjh.nz/Stirr/5456.m3u8
+#EXTINF:-1 tvg-id="3353" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2023/02/28/1677525969XOownbFiza-512x512-square.png" group-title="Food and Fitness Live",Omstars
+https://i.mjh.nz/Stirr/3353.m3u8
+#EXTINF:-1 tvg-id="5308" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707447606lfFjnn5nEx-512x512-square.png" group-title="Entertainment Live",Zoomer TV
+https://i.mjh.nz/Stirr/5308.m3u8
+#EXTINF:-1 tvg-id="5297" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707441388y5JAA4UyzK-512x512-square.png" group-title="Music Live",Feva Music
+https://i.mjh.nz/Stirr/5297.m3u8
+#EXTINF:-1 tvg-id="5430" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/03/07/1709832676KjRR7jMuCJ-512x512-square.png" group-title="Entertainment Live",RightNow TV
+https://i.mjh.nz/Stirr/5430.m3u8
+#EXTINF:-1 tvg-id="5292" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/17074387978Cn1LaRusH-512x512-square.png" group-title="Entertainment Live",24 Hour Free Movies
+https://i.mjh.nz/Stirr/5292.m3u8
+#EXTINF:-1 tvg-id="771" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2022/08/25/1661452611f3ZQYyky7j-512x512-square.png" group-title="Sports Live",FITE 24/7
+https://i.mjh.nz/Stirr/771.m3u8
+#EXTINF:-1 tvg-id="5296" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707441203VRdjhw4UfZ-512x512-square.png" group-title="Entertainment Live",EVRGRN TV
+https://i.mjh.nz/Stirr/5296.m3u8
+#EXTINF:-1 tvg-id="5295" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707440878KxBQASrLNy-512x512-square.png" group-title="Sports Live",Equus TV
+https://i.mjh.nz/Stirr/5295.m3u8
+#EXTINF:-1 tvg-id="5887" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/05/02/17146738219e46A2lfds-512x512-square.png" group-title="Sports Live",Surfing Plus
+https://i.mjh.nz/Stirr/5887.m3u8
+#EXTINF:-1 tvg-id="5307" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707447082WSnNLiAiwP-512x512-square.png" group-title="Entertainment Live",Stellar TV
+https://i.mjh.nz/Stirr/5307.m3u8
+#EXTINF:-1 tvg-id="5720" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712608909uUKqPRY67T-512x512-square.png" group-title="News Live",VOA (Voice of America)
+https://i.mjh.nz/Stirr/5720.m3u8
+#EXTINF:-1 tvg-id="5726" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/17126107611l3ZAg8tJ1-512x512-square.png" group-title="Sports Live",Nautical Channel
+https://i.mjh.nz/Stirr/5726.m3u8
