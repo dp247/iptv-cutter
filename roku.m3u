@@ -1,27 +1,33 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/11f70f2cc59750f4ad9a019d72ad17b1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FepgLightLogo%2F1705940612751_WSNLogo_White.png",Women's Sports Network
 https://i.mjh.nz/Roku/11f70f2cc59750f4ad9a019d72ad17b1.m3u8
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/bb47d1c095a456618924489ed6e6b8e0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FepgLightLogo%2F1655143270375_EPG_Redbox-FreeMovies_80x60.png",REDBOX FREE MOVIES
+https://i.mjh.nz/Roku/bb47d1c095a456618924489ed6e6b8e0.m3u8
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/b7f8b6de87565b78888708dde8bc67af/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FepgLightLogo%2F1696014352374_dark-bg.png",Origin Sports
 https://i.mjh.nz/Roku/b7f8b6de87565b78888708dde8bc67af.m3u8
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/79ed68ed51ad522b8783c6c42a5e2e8c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FepgLightLogo%2F1675112681627_DMR_-_AsianCrush_EPG_Logo.png",AsianCrush
-https://i.mjh.nz/Roku/79ed68ed51ad522b8783c6c42a5e2e8c.m3u8
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/e2ba2f7fcfe85153ba70c5af66fa22ff/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FepgLightLogo%2F1678147329400_WMX_POP_LOGO_DARK_EPG.png",WMX Pop
+https://i.mjh.nz/Roku/e2ba2f7fcfe85153ba70c5af66fa22ff.m3u8
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/5bb5fc612a5e580f8a5832fa3b7089e7/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FepgLightLogo%2F1687354079386_Torque_80x60_KO_NEW.png",Torque
 https://i.mjh.nz/Roku/5bb5fc612a5e580f8a5832fa3b7089e7.m3u8
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/e0970e3e4ea951689b1a15f64b091cb1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FepgLightLogo%2F1657584599992_Updated_80x60_White_FTFSports_Vertical.png",For The Fans
+https://i.mjh.nz/Roku/e0970e3e4ea951689b1a15f64b091cb1.m3u8
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/79ed68ed51ad522b8783c6c42a5e2e8c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FepgLightLogo%2F1675112681627_DMR_-_AsianCrush_EPG_Logo.png",AsianCrush
+https://i.mjh.nz/Roku/79ed68ed51ad522b8783c6c42a5e2e8c.m3u8
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/9608edcb56275f9daa1d90fc03c22ebd/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FepgLightLogo%2F1678322156059_HelloInspo_EPG_logo_Color.png",Hello Inspo
+https://i.mjh.nz/Roku/9608edcb56275f9daa1d90fc03c22ebd.m3u8
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/c4bdfe6fd751590e9d096b5de264bba1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FepgLightLogo%2F1678995051754_EPG1_logo_80x60.png",Rakuten Viki
 https://i.mjh.nz/Roku/c4bdfe6fd751590e9d096b5de264bba1.m3u8
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/c60d4ea89eb75a5b85cd436dbdf08ccf/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FepgLightLogo%2F1655144078867_6844.3_Roku-Syndicated-Channel_80x60.png",Redbox Romance
 https://i.mjh.nz/Roku/c60d4ea89eb75a5b85cd436dbdf08ccf.m3u8
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/2f7855ad196b57fc8e1dcb9cb74ea161/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FepgLightLogo%2F1653084604744_Maker_PGuide_Light.png",This Old House Makers Channel
-https://i.mjh.nz/Roku/2f7855ad196b57fc8e1dcb9cb74ea161.m3u8
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/f2ad636c723a58b78276ee28f5edba58/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FepgLightLogo%2F1687355007280_Shareza_Hosein_-_Modern_Marvels_80x60_KO_80x60_KO.png",Modern Marvels
 https://i.mjh.nz/Roku/f2ad636c723a58b78276ee28f5edba58.m3u8
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/bb47d1c095a456618924489ed6e6b8e0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FepgLightLogo%2F1655143270375_EPG_Redbox-FreeMovies_80x60.png",REDBOX FREE MOVIES
-https://i.mjh.nz/Roku/bb47d1c095a456618924489ed6e6b8e0.m3u8
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/5941b88c38ab50ad8b09b0d920abbae5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FepgLightLogo%2F1678147364704_WMX_ROCK_LOGO_DARK_EPG.png",WMX Rock
-https://i.mjh.nz/Roku/5941b88c38ab50ad8b09b0d920abbae5.m3u8
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/e2ba2f7fcfe85153ba70c5af66fa22ff/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FepgLightLogo%2F1678147329400_WMX_POP_LOGO_DARK_EPG.png",WMX Pop
-https://i.mjh.nz/Roku/e2ba2f7fcfe85153ba70c5af66fa22ff.m3u8
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/df14db5ffb64531ea5132b8345be4914/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FepgLightLogo%2F1678147140512_WMX_HIPHOP_LOGO_DARK_EPG.png",WMX Hip Hop
-https://i.mjh.nz/Roku/df14db5ffb64531ea5132b8345be4914.m3u8
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/2f7855ad196b57fc8e1dcb9cb74ea161/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FepgLightLogo%2F1653084604744_Maker_PGuide_Light.png",This Old House Makers Channel
+https://i.mjh.nz/Roku/2f7855ad196b57fc8e1dcb9cb74ea161.m3u8
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/307b3b9ea321539b9688148fc97a8bfd/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FepgLightLogo%2F1694207383201_RokuEPG-Image-2_80x60px_Wil_Rosser.png",Crunchyroll
 https://i.mjh.nz/Roku/307b3b9ea321539b9688148fc97a8bfd.m3u8
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/df14db5ffb64531ea5132b8345be4914/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FepgLightLogo%2F1678147140512_WMX_HIPHOP_LOGO_DARK_EPG.png",WMX Hip Hop
+https://i.mjh.nz/Roku/df14db5ffb64531ea5132b8345be4914.m3u8
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/5941b88c38ab50ad8b09b0d920abbae5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FepgLightLogo%2F1678147364704_WMX_ROCK_LOGO_DARK_EPG.png",WMX Rock
+https://i.mjh.nz/Roku/5941b88c38ab50ad8b09b0d920abbae5.m3u8
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/77672e0655c5540095b1c492c91c37d3/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FepgLightLogo%2F1666302214373_greatamericanadventures_EPGlogo_onBlack.png",Great American Adventures
+https://i.mjh.nz/Roku/77672e0655c5540095b1c492c91c37d3.m3u8
