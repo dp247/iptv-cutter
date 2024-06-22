@@ -1,53 +1,53 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="USBB3200020ID" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200020ID_20240520T222641SQUARE.png" group-title="Movies",FilmRise Action
 https://i.mjh.nz/SamsungTVPlus/USBB3200020ID.m3u8
-#EXTINF:-1 tvg-id="USAJ30000122O" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000122O_20240520T222734SQUARE.png" group-title="Movies",NEW KMOVIES
-https://i.mjh.nz/SamsungTVPlus/USAJ30000122O.m3u8
-#EXTINF:-1 tvg-id="USAJ22000130U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ22000130U_20240520T221301SQUARE.png" group-title="Action & Drama",MHz Now
-https://i.mjh.nz/SamsungTVPlus/USAJ22000130U.m3u8
 #EXTINF:-1 tvg-id="USBB32000196O" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB32000196O_20240520T222645SQUARE.png" group-title="Western & Classic TV",FilmRise Western
 https://i.mjh.nz/SamsungTVPlus/USBB32000196O.m3u8
-#EXTINF:-1 tvg-id="USBC24000223S" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC24000223S_20240520T221518SQUARE.png" group-title="Crime",ION Mystery
-https://i.mjh.nz/SamsungTVPlus/USBC24000223S.m3u8
-#EXTINF:-1 tvg-id="USBA3000042O6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000042O6_20240520T221248SQUARE.png" group-title="Reality TV",Kitchen Nightmares
-https://i.mjh.nz/SamsungTVPlus/USBA3000042O6.m3u8
+#EXTINF:-1 tvg-id="USAJ30000122O" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000122O_20240520T222734SQUARE.png" group-title="Movies",NEW KMOVIES
+https://i.mjh.nz/SamsungTVPlus/USAJ30000122O.m3u8
 #EXTINF:-1 tvg-id="USBD300003LK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300003LK_20240520T222913SQUARE.png" group-title="Action & Drama",ION Plus
 https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8
+#EXTINF:-1 tvg-id="USBC24000223S" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC24000223S_20240520T221518SQUARE.png" group-title="Crime",ION Mystery
+https://i.mjh.nz/SamsungTVPlus/USBC24000223S.m3u8
+#EXTINF:-1 tvg-id="USAJ22000130U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ22000130U_20240520T221301SQUARE.png" group-title="Action & Drama",MHz Now
+https://i.mjh.nz/SamsungTVPlus/USAJ22000130U.m3u8
+#EXTINF:-1 tvg-id="USBA3000042O6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000042O6_20240520T221248SQUARE.png" group-title="Reality TV",Kitchen Nightmares
+https://i.mjh.nz/SamsungTVPlus/USBA3000042O6.m3u8
+#EXTINF:-1 tvg-id="USBB1000003HL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1000003HL_20240520T221245SQUARE.png" group-title="Home & Food",Journy
+https://i.mjh.nz/SamsungTVPlus/USBB1000003HL.m3u8
+#EXTINF:-1 tvg-id="USAJ30000039U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000039U_20240520T215832SQUARE.png" group-title="Comedy",Dry Bar Comedy
+https://i.mjh.nz/SamsungTVPlus/USAJ30000039U.m3u8
 #EXTINF:-1 tvg-id="USAJ40000072X" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ40000072X_20240520T222643SQUARE.png" group-title="Movies",FilmRise Free Movies
 https://i.mjh.nz/SamsungTVPlus/USAJ40000072X.m3u8
 #EXTINF:-1 tvg-id="USAJ2200009C2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ2200009C2_20240520T221233SQUARE.png" group-title="Home & Food",Hungry
 https://i.mjh.nz/SamsungTVPlus/USAJ2200009C2.m3u8
-#EXTINF:-1 tvg-id="USBD700017WC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700017WC_20240520T221554SQUARE.png" group-title="Home & Food",Tastemade Travel
-https://i.mjh.nz/SamsungTVPlus/USBD700017WC.m3u8
-#EXTINF:-1 tvg-id="USBC3200022W6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200022W6_20240520T221552SQUARE.png" group-title="Home & Food",Tastemade Home
-https://i.mjh.nz/SamsungTVPlus/USBC3200022W6.m3u8
-#EXTINF:-1 tvg-id="USAJ2200023Z0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ2200023Z0_20240520T220026SQUARE.png" group-title="Sports & Outdoors",fubo Sports Network
-https://i.mjh.nz/SamsungTVPlus/USAJ2200023Z0.m3u8
-#EXTINF:-1 tvg-id="USBB1000003HL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1000003HL_20240520T221245SQUARE.png" group-title="Home & Food",Journy
-https://i.mjh.nz/SamsungTVPlus/USBB1000003HL.m3u8
-#EXTINF:-1 tvg-id="USBA3000043LH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000043LH_20240611T050248SQUARE.png" group-title="Animals‚ Nature & History",Samsung Wild Life
-https://i.mjh.nz/SamsungTVPlus/USBA3000043LH.m3u8
-#EXTINF:-1 tvg-id="USAK3508706A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508706A_20240520T230508SQUARE.png" group-title="Reality Competition",Xtreme Outdoor Presented by HISTORY
-https://i.mjh.nz/SamsungTVPlus/USAK3508706A.m3u8
 #EXTINF:-1 tvg-id="USAJ3504701A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504701A_20240520T214527SQUARE.png" group-title="Life Stories & Culture",Documentary+
 https://i.mjh.nz/SamsungTVPlus/USAJ3504701A.m3u8
-#EXTINF:-1 tvg-id="USAJ30000039U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000039U_20240520T215832SQUARE.png" group-title="Comedy",Dry Bar Comedy
-https://i.mjh.nz/SamsungTVPlus/USAJ30000039U.m3u8
-#EXTINF:-1 tvg-id="USBC2100013WI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100013WI_20240520T214846SQUARE.png" group-title="Animals‚ Nature & History",TED
-https://i.mjh.nz/SamsungTVPlus/USBC2100013WI.m3u8
-#EXTINF:-1 tvg-id="USBB1900006NY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1900006NY_20240520T214721SQUARE.png" group-title="Life Stories & Culture",VICE
-https://i.mjh.nz/SamsungTVPlus/USBB1900006NY.m3u8
 #EXTINF:-1 tvg-id="USAJ3504706A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504706A_20240520T215941SQUARE.png" group-title="Comedy",RiffTrax
 https://i.mjh.nz/SamsungTVPlus/USAJ3504706A.m3u8
-#EXTINF:-1 tvg-id="USBD3300005EX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300005EX_20240520T212939SQUARE.png" group-title="Music",XITE Icons
-https://i.mjh.nz/SamsungTVPlus/USBD3300005EX.m3u8
+#EXTINF:-1 tvg-id="USBD700017WC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700017WC_20240520T221554SQUARE.png" group-title="Home & Food",Tastemade Travel
+https://i.mjh.nz/SamsungTVPlus/USBD700017WC.m3u8
+#EXTINF:-1 tvg-id="USBB1900006NY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1900006NY_20240520T214721SQUARE.png" group-title="Life Stories & Culture",VICE
+https://i.mjh.nz/SamsungTVPlus/USBB1900006NY.m3u8
+#EXTINF:-1 tvg-id="USAJ2200023Z0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ2200023Z0_20240520T220026SQUARE.png" group-title="Sports & Outdoors",fubo Sports Network
+https://i.mjh.nz/SamsungTVPlus/USAJ2200023Z0.m3u8
+#EXTINF:-1 tvg-id="USAK3508706A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508706A_20240520T230508SQUARE.png" group-title="Reality Competition",Xtreme Outdoor Presented by HISTORY
+https://i.mjh.nz/SamsungTVPlus/USAK3508706A.m3u8
+#EXTINF:-1 tvg-id="USBA3000043LH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000043LH_20240611T050248SQUARE.png" group-title="Animals‚ Nature & History",Samsung Wild Life
+https://i.mjh.nz/SamsungTVPlus/USBA3000043LH.m3u8
 #EXTINF:-1 tvg-id="USBD35000428O" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000428O_20240528T020941SQUARE.png" group-title="Animals‚ Nature & History",History 365
 https://i.mjh.nz/SamsungTVPlus/USBD35000428O.m3u8
-#EXTINF:-1 tvg-id="USBB800001O7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB800001O7_20240520T214624SQUARE.png" group-title="Animals‚ Nature & History",PBS Digital Studios
-https://i.mjh.nz/SamsungTVPlus/USBB800001O7.m3u8
 #EXTINF:-1 tvg-id="USBB5200025DO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200025DO_20240520T214816SQUARE.png" group-title="Animals‚ Nature & History",Modern Marvels Presented by History
 https://i.mjh.nz/SamsungTVPlus/USBB5200025DO.m3u8
+#EXTINF:-1 tvg-id="USBB800001O7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB800001O7_20240520T214624SQUARE.png" group-title="Animals‚ Nature & History",PBS Digital Studios
+https://i.mjh.nz/SamsungTVPlus/USBB800001O7.m3u8
 #EXTINF:-1 tvg-id="USBB2300003JZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300003JZ_20240520T212721SQUARE.png" group-title="Music",XITE Just Chill
 https://i.mjh.nz/SamsungTVPlus/USBB2300003JZ.m3u8
+#EXTINF:-1 tvg-id="USBC2100013WI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100013WI_20240520T214846SQUARE.png" group-title="Animals‚ Nature & History",TED
+https://i.mjh.nz/SamsungTVPlus/USBC2100013WI.m3u8
+#EXTINF:-1 tvg-id="USBC3200022W6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200022W6_20240520T221552SQUARE.png" group-title="Home & Food",Tastemade Home
+https://i.mjh.nz/SamsungTVPlus/USBC3200022W6.m3u8
+#EXTINF:-1 tvg-id="USBD3300005EX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300005EX_20240520T212939SQUARE.png" group-title="Music",XITE Icons
+https://i.mjh.nz/SamsungTVPlus/USBD3300005EX.m3u8
 #EXTINF:-1 tvg-id="USBB3200030CG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200030CG_20240611T050314SQUARE.png" group-title="Movies",Movies on the Rotten Tomatoes Channel
 https://i.mjh.nz/SamsungTVPlus/USBB3200030CG.m3u8
