@@ -1,33 +1,33 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f36d" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e7af423114c9f735d17e142783f233a.png",AMC Thrillers
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f36d.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/666de197b5e5c34842b3a94ae5a12634.png",ANIME x HIDIVE
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6348a4f190b96ef5e0eb3286" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1dc4dde7-9e20-42c3-9f00-c869666851fc/Bigtime_Light_Mode_Logo_Daniel_Hotovy__Amogo_Networx_.png",Bigtime - Free Movies
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6348a4f190b96ef5e0eb3286.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f36d" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e7af423114c9f735d17e142783f233a.png",AMC Thrillers
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f36d.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" tvg-logo="https://provider-static.plex.tv/5/epg/channels/logos/gracenote/5fce72f97ee456426ac8e0d890050bdd.png",Grit Xtra
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5819" tvg-logo="https://provider-static.plex.tv/9/epg/channels/logos/gracenote/917c162e1af472f9d021154ef49f78eb.png",FilmRise Anime
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5819.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64d2bdf1b18b113e0c610113" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e9a91ab-4631-4fd9-a36c-05931506aaa0/GTVGO-Plex-WhiteOrange-LogoTransparent_-_Ellen_Robinson.png",GameTV Go
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64d2bdf1b18b113e0c610113.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6449369eb3ff17382cae580d" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5605a272-8674-4017-aab3-d83743ab9226/FilmRiseSciFi_Logo_Color.png",FilmRise Sci-Fi
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae580d.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-646e489b58898bf3be94b325" tvg-logo="https://provider-static.plex.tv/epg/cms/production/11ec111a-a186-4270-a69e-88bc441a0f7c/FilmRiseTrueCrime_Logo_Color.png",FilmRise True Crime
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-646e489b58898bf3be94b325.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5808" tvg-logo="https://provider-static.plex.tv/b/epg/channels/logos/gracenote/b84e3fed51a5801a6e847bd714c1ef7c.png",FilmRise British TV
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5808.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6449369eb3ff17382cae57fd" tvg-logo="https://provider-static.plex.tv/epg/cms/production/750eeec2-9d7e-41cf-a0f5-fcb9695d569b/FilmRiseWestern_Logo_Color.png",FilmRise Western
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae57fd.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf26" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6b36f4bbe6d1901899eb5943951819e2.png",Ion Mystery
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf26.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6449369eb3ff17382cae580d" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5605a272-8674-4017-aab3-d83743ab9226/FilmRiseSciFi_Logo_Color.png",FilmRise Sci-Fi
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae580d.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" tvg-logo="https://provider-static.plex.tv/5/epg/channels/logos/gracenote/5fce72f97ee456426ac8e0d890050bdd.png",Grit Xtra
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-646e489b58898bf3be94b325" tvg-logo="https://provider-static.plex.tv/epg/cms/production/11ec111a-a186-4270-a69e-88bc441a0f7c/FilmRiseTrueCrime_Logo_Color.png",FilmRise True Crime
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-646e489b58898bf3be94b325.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245f06793b402a3d1097787" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fc8d84d5-b52b-4e30-aafb-dd9b60bd9773/Logo_Euronews_stacked_white_on_french_1500x1000.png",Euronews Français
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6245f06793b402a3d1097787.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64bf5ed5fa25ad1c59ae7472" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f6d3d0f3-810f-48b7-ad46-66916a0570f8/WaPoTV_Logo_White_1500x1000_-_Lauren_Saks.png",Washington Post Television
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64bf5ed5fa25ad1c59ae7472.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-62f5303cb2258cb00041732d" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6dfdcb84-b2fd-4f15-8da7-74a84ccad732/TV_Asia_channel_logo_1500x1000_copyrdx.png",TV Asia Comedy Powered by Shemaroo
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62f5303cb2258cb00041732d.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-61e9af453508a50f84213dd6" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1c24a0e4-ecc3-4e51-8eb6-f5c8e2ed1ff9/Untitled.png",i24NEWS Updates
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-61e9af453508a50f84213dd6.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fc6f3a62b6f7b002e77ffaa" tvg-logo="https://provider-static.plex.tv/epg/cms/production/07ef54b2-5faf-49d0-a39f-df2775769839/news12ny_logo_dark.png",News 12 New York
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5fc6f3a62b6f7b002e77ffaa.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64d2bdf1b18b113e0c610113" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e9a91ab-4631-4fd9-a36c-05931506aaa0/GTVGO-Plex-WhiteOrange-LogoTransparent_-_Ellen_Robinson.png",GameTV Go
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64d2bdf1b18b113e0c610113.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6449369eb3ff17382cae57fd" tvg-logo="https://provider-static.plex.tv/epg/cms/production/750eeec2-9d7e-41cf-a0f5-fcb9695d569b/FilmRiseWestern_Logo_Color.png",FilmRise Western
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae57fd.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5819" tvg-logo="https://provider-static.plex.tv/9/epg/channels/logos/gracenote/917c162e1af472f9d021154ef49f78eb.png",FilmRise Anime
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5819.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf26" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6b36f4bbe6d1901899eb5943951819e2.png",Ion Mystery
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf26.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-62f5303cb2258cb00041732d" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6dfdcb84-b2fd-4f15-8da7-74a84ccad732/TV_Asia_channel_logo_1500x1000_copyrdx.png",TV Asia Comedy Powered by Shemaroo
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62f5303cb2258cb00041732d.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64bf5ed5fa25ad1c59ae7472" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f6d3d0f3-810f-48b7-ad46-66916a0570f8/WaPoTV_Logo_White_1500x1000_-_Lauren_Saks.png",Washington Post Television
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64bf5ed5fa25ad1c59ae7472.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-61e9af453508a50f84213dd6" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1c24a0e4-ecc3-4e51-8eb6-f5c8e2ed1ff9/Untitled.png",i24NEWS Updates
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-61e9af453508a50f84213dd6.m3u8
