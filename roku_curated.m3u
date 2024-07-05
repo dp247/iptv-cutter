@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/11f70f2cc59750f4ad9a019d72ad17b1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1705940612752_WSNLogo_HUDCenter.png",Women's Sports Network
+#EXTINF:-1 tvg-id="WomensSportsNetwork.us" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/11f70f2cc59750f4ad9a019d72ad17b1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1705940612752_WSNLogo_HUDCenter.png",Women's Sports Network
 https://lnc-fast-studios-womens-sports.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/62f1cd0d4c395a2a8ab72cff688666a0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1668537442136_ROKU-SPORTSGRID-LIVE-HUD-LOGO-EFEFEF.png",SPORTSGRID
+#EXTINF:-1 tvg-id="SportsGrid.us" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/62f1cd0d4c395a2a8ab72cff688666a0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1668537442136_ROKU-SPORTSGRID-LIVE-HUD-LOGO-EFEFEF.png",SPORTSGRID
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/15cc44e50d8453e18f21ea37713319c5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1660071204893_1605145912343_EN_Logo_WhiteonBlack_260x147.png",Electric Now
+#EXTINF:-1 tvg-id="ElectricNow.us" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/15cc44e50d8453e18f21ea37713319c5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1660071204893_1605145912343_EN_Logo_WhiteonBlack_260x147.png",Electric Now
 https://elec-en.otteravision.com/elec/en/elec_en.m3u8
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/79ed68ed51ad522b8783c6c42a5e2e8c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675112681628_DMR_-_AsianCrush_Roku-Channel_Info-HUD2.png",AsianCrush
+#EXTINF:-1 tvg-id="AsianCrush.us" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/79ed68ed51ad522b8783c6c42a5e2e8c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675112681628_DMR_-_AsianCrush_Roku-Channel_Info-HUD2.png",AsianCrush
 https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/c4bdfe6fd751590e9d096b5de264bba1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1678995051754_image_hud1_260x147.png",Rakuten Viki
+#EXTINF:-1 tvg-id="RakutenViki.us" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/c4bdfe6fd751590e9d096b5de264bba1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1678995051754_image_hud1_260x147.png",Rakuten Viki
 https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/c0643e92d33e525791e770844524dc69/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675112783491_MP_ROKU_EPG.png",Midnight Pulp
+#EXTINF:-1 tvg-id="MidnightPulp.us" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/c0643e92d33e525791e770844524dc69/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675112783491_MP_ROKU_EPG.png",Midnight Pulp
 https://amg01201-cinedigmenterta-midnightpulp-cineverse-axym1.amagi.tv/playlist/amg01201-cinedigmenterta-midnightpulp-cineverse/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/72a54a3c7a3d5381a1baa223a5dc8d23/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675112840161_RC_ROKU_EPG.png",RetroCrush
+#EXTINF:-1 tvg-id="RetroCrush.us" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/72a54a3c7a3d5381a1baa223a5dc8d23/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675112840161_RC_ROKU_EPG.png",RetroCrush
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-retrocrush-lgus/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/307b3b9ea321539b9688148fc97a8bfd/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694207383202_RokuImage-HUD-2_260x147px_Wil_Rosser.png",Crunchyroll
+#EXTINF:-1 tvg-id="Crunchyroll.us" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/307b3b9ea321539b9688148fc97a8bfd/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694207383202_RokuImage-HUD-2_260x147px_Wil_Rosser.png",Crunchyroll
 https://gsn-crunchyroll-1-us.anoki.wurl.tv/playlist.m3u8
